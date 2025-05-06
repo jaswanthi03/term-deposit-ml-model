@@ -30,8 +30,19 @@ This project uses real-world data from a Portuguese banking institution to predi
 
 ▶️ **[Open Google Colab Notebook](https://colab.research.google.com/drive/1rQEHNf5iQbipMUR4L5vQBng0lgMlRxVs)**
 
-<pre><code>## 🧾 Files Included <pre> 📂 bank-term-deposit-prediction/ ├── 📄 README.md ├── 📄 ISOM_835Finalproject_Jaswanthibanoth.pdf ├── 📄 finalproject.ipynb ├── 📁 visualizations/ │ ├── age_distribution.png │ ├── correlation_heatmap.png │ └── feature_importances.png </pre>
-</code></pre>
+## 🧾 Files Included
+
+```
+📂 bank-term-deposit-prediction/
+├── 📄 README.md
+├── 📄 ISOM_835Finalproject_Jaswanthibanoth.pdf
+├── 📄 finalproject.ipynb
+├── 📁 visualizations/
+│   ├── age_distribution.png
+│   ├── correlation_heatmap.png
+│   └── feature_importances.png
+```
+
 
 
 ## 📘 Final Report
