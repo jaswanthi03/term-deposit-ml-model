@@ -33,7 +33,7 @@ This project uses real-world data from a Portuguese banking institution to predi
 ## 🧾 Files Included
 
 ```
-📂 bank-term-deposit-prediction/
+📂 term-deposit-ml-model/
 ├── 📄 README.md
 ├── 📄 ISOM_835Finalproject_Jaswanthibanoth.pdf
 ├── 📄 finalproject.ipynb
